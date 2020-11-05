@@ -14,6 +14,7 @@ Application which predicts the probability of a patient to display cardiovascula
 Design, development and testing of the prediction system for cardiovascular disease by utilizing machine learning algorithms (e.g. SVM classifier). It integrates a number of data analytics steps and processes, including data identification and analysis, data cleaning, feature extraction and analytics execution to obtain and optimize the analytics outcomes.
 
 ## Documentation
+Documentation of the project and my bachelor thesis are included in the following link:
 [Documentation](https://github.com/AndreasPr/Heart-Disease-Prediction-System/blob/master/Documentation.pdf)
 
 ## Technologies
