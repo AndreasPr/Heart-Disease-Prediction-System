@@ -1,9 +1,10 @@
 # Heart-Disease-Prediction-System
 Application which predicts the probability of a patient to display cardiovascular disease created with Python.  
-[Documentation](https://github.com/AndreasPr/Heart-Disease-Prediction-System/blob/master/Documentation.pdf)
+
 ## Table of Contents
 
 * [General info](#general-info)
+* [Documentation](#documentation)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
 * [Scope of functionalities](#scope-of-functionalities)
@@ -11,6 +12,9 @@ Application which predicts the probability of a patient to display cardiovascula
 
 ## General Info
 Design, development and testing of the prediction system for cardiovascular disease by utilizing machine learning algorithms (e.g. SVM classifier). It integrates a number of data analytics steps and processes, including data identification and analysis, data cleaning, feature extraction and analytics execution to obtain and optimize the analytics outcomes.
+
+## Documentation
+[Documentation](https://github.com/AndreasPr/Heart-Disease-Prediction-System/blob/master/Documentation.pdf)
 
 ## Technologies
 * HTML5
