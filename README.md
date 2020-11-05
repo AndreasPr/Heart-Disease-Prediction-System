@@ -1,5 +1,6 @@
 # Heart-Disease-Prediction-System
 Application which predicts the probability of a patient to display cardiovascular disease created with Python.  
+[Documentation](https://github.com/AndreasPr/Heart-Disease-Prediction-System/blob/master/Documentation.pdf)
 ## Table of Contents
 
 * [General info](#general-info)
