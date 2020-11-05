@@ -1,0 +1,140 @@
+#form_input
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+#form_input input[type="text"]
+{
+	width: 50%;
+}
+
+#form_input .row
+{
+  padding-bottom: 8%;
+}
+@media only screen and (max-width: 560px)
+{
+	#form_input input[type="text"]
+	{
+		width: 80%;
+	}
+}
+#result_textarea
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	
+}
+.title_of_inputs
+{
+	font-size: 150%;
+}
+.custom-radios div 
+{
+  display: inline-block;
+}
+.custom-radios input[type="radio"] 
+{
+  display: none;
+}
+.custom-radios input[type="radio"] + label 
+{
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.custom-radios input[type="radio"] + label span 
+{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: -1px 4px 0 0;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid #FFFFFF;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  line-height: 44px;
+}
+.custom-radios input[type="radio"] + label span img 
+{
+  opacity: 0;
+  transition: all .3s ease;
+}
+.custom-radios input[type="radio"]#radio_male + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_female + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_typical_angina + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_atypical_angina + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_non_anginal_pain + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_asymptomatic + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_true + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_false + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_normal + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_stt + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_estes + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_yes + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_no + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_unsloping + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_flat + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]#radio_downsloping + label span 
+{
+  background-color: #e74c3c;
+}
+.custom-radios input[type="radio"]:checked + label span 
+{
+  opacity: 1;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/242518/check-icn.svg) center center no-repeat;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}

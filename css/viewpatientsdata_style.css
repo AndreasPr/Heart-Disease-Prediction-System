@@ -1,0 +1,36 @@
+#title_of_results
+{
+  padding: 3%;
+}
+.table_div
+{
+  overflow: hidden;
+  box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+.table_personal_div
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	
+}	
+.table_exams_div
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+}
+.table_personal_div td.fit, 
+.table_personal_div th.fit {
+    white-space: nowrap;
+    width: 1%;
+}
+.table_exams_div td.fit, 
+.table_exams_div th.fit {
+    white-space: nowrap;
+    width: 1%;
+}

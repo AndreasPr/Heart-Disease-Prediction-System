@@ -1,0 +1,41 @@
+#service1
+{
+	background-color: #fd556d;
+	color: white;
+}
+#service2
+{
+	background-color: #fd556d;
+	color: white;
+}
+#service3
+{
+	background-color: #fd556d;
+	color: white;
+}
+#services_section
+{
+	padding: 5%;
+
+}
+#text_subtitle
+{
+	color: #a6a6a6;
+}
+.card-text
+{
+	font-style: italic;
+	padding-bottom: 5%;
+}
+.card-title
+{
+	font-weight: bold;
+}
+.card
+{
+	padding-top: 3%;
+}
+.card-body
+{
+	padding-top: 3%;
+}
